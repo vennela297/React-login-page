@@ -1,0 +1,44 @@
+body {
+}
+
+.form-area {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 700px;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 80px;
+  padding-top: 200px;
+}
+
+h4 {
+  margin: 0;
+  padding: 0 0 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.form-area input {
+  margin-bottom: 5px;
+  width: 100%;
+  border-radius: 2rem;
+  background-color: black;
+}
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+}
+
+img {
+  border-radius: 50%;
+  height: 20%;
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  background: linear-gradient(90deg, #c05b74, #de9d77);
+}

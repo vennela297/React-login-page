@@ -1,3 +1,5 @@
+Login Page
+
 ![WhatsApp Image 2021-04-04 at 10 56 13 AM](https://user-images.githubusercontent.com/72748396/113499552-88bf2b80-9534-11eb-911a-6a4fd954789a.jpeg)
 
 
@@ -11,6 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+###npm i
+Gets the node modules and all the dependencies in the package.json file
 
 ### `npm start`
 
